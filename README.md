@@ -88,7 +88,6 @@ These reports are compiled for **educational and defensive research purposes onl
 ## Author
 
 **Namrata Soni**
-Cybersecurity Postgraduate | SOC | Detection Engineering | Threat Intelligence
 [LinkedIn](https://linkedin.com/in/namrata-soni-91a620275) · [GitHub](https://github.com/NamrataSonii)
 
 ---
