@@ -10,9 +10,9 @@ This repository contains deep-dive intelligence reports on three threat actors w
 
 | Report | Threat Actor | Attribution | Primary Motivation |
 |---|---|---|---|
-| [APT40 Intelligence Report](./APT40_Intelligent_Report.pdf) | APT40 (aka Leviathan, TEMP.Periscope, TEMP.Jumper) | China-linked (MSS) | Naval/maritime technology espionage |
-| [DarkHotel Intelligence Report](./Dark_hotel_Intelligence_Report.pdf) | DarkHotel | Unattributed, highly targeted | Espionage against executives & officials |
-| [Equation Group Intelligence Report](./Equation_Group_Intelligence_Report.pdf) | Equation Group | Believed linked to NSA/TAO | Nation-state cyber-espionage |
+| [APT40 Intelligent Report](./APT40%20Intelligent%20Report.pdf) | APT40 (aka Leviathan, TEMP.Periscope, TEMP.Jumper) | China-linked (MSS) | Naval/maritime technology espionage |
+| [Dark hotel Intelligence Report](./Dark%20hotel%20Intelligence%20Report.pdf) | DarkHotel | Unattributed, highly targeted | Espionage against executives & officials |
+| [Equation Group Intelligence Report](./Equation%20Group%20Intelligence%20Report.pdf) | Equation Group | Believed linked to NSA/TAO | Nation-state cyber-espionage |
 
 Each report follows a consistent structure: **Executive Summary → Methodology → Detailed Analysis → Attribution & TTPs → Conclusion & Recommendations → Appendices**.
 
